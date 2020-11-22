@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zesty</string>
+    <string name="ZestySharedPreferences">ZestySharedPreferences</string>
+    <string name="menuHome">Home</string>
+    <string name="menuProfile">My Profile</string>
+    <string name="menuFavourites">Favourite Restaurants</string>
+    <string name="menuFaqs">FAQ\'s</string>
+    <string name="menuLogout">Log out</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="question1">Q1. What is the time span of delivery?</string>
+    <string name="answer1">A1: The food item will be delivered based on the location of customer, Still, we assure you to deliver your food item within 30mins</string>
+    <string name="question2">Q2. How much will be the delivery Charges?</string>
+    <string name="answer2">A2: The delivery charges will be in the range of Rs30-Rs50 with respect to the distance of user from the restaurant.</string>
+    <string name="answer5">A5: Yes, our app will run on lower end devices smoothly without any lag</string>
+    <string name="question5">Q5. Can I install this app on device having 1GB of RAM?</string>
+    <string name="answer4">A4: Yes, you can Google pay the amount at the time of delivery using the UPI ID as zesty@sbiIndia.</string>
+    <string name="question4">Q4. Can I pay the amount using UPI apps on delivery? If yes then what is the UPI ID?</string>
+    <string name="answer3">A3: Sorry for inconvenience, currently we dont support cancellation on order. However, we are trying our best to bring this service in our app.</string>
+    <string name="question3">Q3. How should I cancel my order?</string>
+    <string name="menuOrders">Order History</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_code">+91-</string>
+    <string name="question6">Q6. Is there any refund available?</string>
+    <string name="answer6">A6: We are sorry to inform you that currently we don\'t refund as the order itself is not cancellable</string>
+</resources>
